@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #e8e4eb;
+  background-color: hsl(274, 15%, 91%);
 }
 #main {
   display: flex;
@@ -40,14 +40,26 @@ li {
   font-family: 'Raleway', sans-serif;
 }
 .img-div {
+  background-color: hsl(270, 37%, 97%);
   display: flex;
   flex-direction: column;
   align-items: center;
+  box-shadow: 4px 3px 5px hsl(267, 6%, 39%);
+  padding: 1em 1em 2em 1em;
+  border-radius: 2px;
 }
 img {
   max-width: 100%;
 }
-
+.img-div img {
+  border: 1px solid hsl(0, 0%, 25%);
+}
+#img-caption {
+  margin-top: 0.7em;
+  font-size: 1.25em;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 300;
+}
 footer {
   color: #3b7fbc;
   padding: 0.25em;
