@@ -15,7 +15,16 @@ header,
 footer {
   background-color: #432700;
 }
+h1,
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+li {
+  list-style: none;
+}
 header {
+  font-family: 'Roboto Slab', serif;
   padding: 0.25em;
   text-align: center;
   margin-bottom: 1em;
@@ -24,6 +33,11 @@ header {
 header h1 {
   color: #3b7fbc;
   font-size: 4em;
+  font-weight: 300;
+}
+p,
+li {
+  font-family: 'Raleway', sans-serif;
 }
 .img-div {
   display: flex;
