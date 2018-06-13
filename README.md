@@ -1,8 +1,12 @@
 # Tribute Page: John Cleese
 
+[deployed on Surge](http://ihatetoast-johncleesetribute.surge.sh/)
+
 Free Code Camp's Responsive Web Design Certification project
 
-A very simple tribute page for the great John Cleese. I completed this several years ago; however, I decided I wanted a copy on GitHub as well as CodePen.
+A very simple tribute page for the great John Cleese. I completed this several years ago; however, I decided I wanted a copy on GitHub as well as [CodePen](https://codepen.io/ihatetoast/full/RRmgYK/).
+
+Colors used to reflect what I imagine a 70s business suit and shirt would look like.
 
 Toolbox:
 
