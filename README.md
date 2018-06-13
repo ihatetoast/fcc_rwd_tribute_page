@@ -12,3 +12,5 @@ Toolbox:
 
 - HTML5
 - CSS (No Sass! Kept it painfully basic)
+
+![alt text](johncleesetribute.png "Whatever you do, don't mention the war.")
